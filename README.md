@@ -53,3 +53,7 @@ This is an evolving toolkit. Suggestions and practical adaptations are welcome.
 ## Maintainer
 
 Maintained by a healthcare improvement and analytics practitioner working across system-wide transformation programmes.
+
+## Notes
+
+This repository is being developed iteratively based on live improvement work and will continue to expand with additional templates and examples.
