@@ -41,6 +41,10 @@ The focus is on practical use rather than theory.
 - Expand mental health and community care use cases
 - Include automation workflows and data pipelines
 - Add case studies from implementation settings
+  
+## Current status
+
+This toolkit is in active early development and will be expanded with practical examples, templates, and implementation notes.
 
 ## Contributions
 
